@@ -1,0 +1,12 @@
+# PreciOps: No services were identified to generate a Compose file.
+# This file orchestrates containers. Add your service definitions here.
+#
+# Example for a generic web service:
+# version: '3.8'
+# services:
+#   webapp:
+#     build: .
+#     ports:
+#       - "8000:8000"
+#     volumes:
+#       - .:/app
